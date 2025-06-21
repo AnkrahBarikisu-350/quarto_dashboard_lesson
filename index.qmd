@@ -33,6 +33,45 @@ p
 p
 ```
 
+# Practice 1
+
+## Row 1{height="30%"}
+
+### 
+
+```{python}
+p
+```
+
+### 
+
+```{python}
+p
+```
+
+###
+
+```{python}
+p
+```
+
+
+## Row 2{height="70%"}
+
+
+### Column {width="70%"}
+
+```{python}
+p
+```
+
+### Column {width="30%"}
+
+```{python}
+p
+```
+
+
 # Tapsets
 
 ## Row 1{height="30%"}
@@ -67,6 +106,45 @@ p
 ### Tab 2
 
 Hello World
+
+# Practice 2
+
+## Row 1{height="20%"}
+
+### 
+
+```{python}
+p
+```
+
+###
+
+```{python}
+p
+```
+
+
+## Row 2{height="80%"}
+
+### Column {width="70%"}
+
+```{python}
+p
+```
+
+### {.tabset}
+
+#### Tap 1
+
+```{python}
+p
+```
+
+#### Tap 2
+
+```{python}
+p
+```
 
 # Value Boxes
 
